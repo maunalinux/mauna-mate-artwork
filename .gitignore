@@ -1,0 +1,5 @@
+debian/mauna-mate-artwork/
+debian/.debhelper/
+debian/files
+debian/debhelper-build-stamp
+debian/*.substvars
