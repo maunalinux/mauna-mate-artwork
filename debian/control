@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Mauna Linux <dev@maunalinux.top>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 
 Package: mauna-mate-artwork
 Architecture: all
